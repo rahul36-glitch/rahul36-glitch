@@ -2,7 +2,7 @@
 
 ## 📊👨‍💻 About Me🎓
 
- I am Rahul Naik 
+ I am Rahul Naik.
 I recently completed my Bachelor of Technology in Computer Science Engineering and have a strong passion for data analytics and business intelligence. My journey into the world of data started with learning SQL and Excel, where I discovered how data can be transformed into valuable insights that drive better decision-making.
 
 Over time, I have developed practical experience in SQL querying, data cleaning, and ETL concepts through continuous learning and project work. I enjoy analyzing datasets, identifying trends, and solving business problems using data-driven approaches.
