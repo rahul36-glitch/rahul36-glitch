@@ -18,6 +18,7 @@ Let's connect and grow together in the world of data and technology! 🚀
 - Excel
 - Data Cleaning
 - ETL 
+- EDA 
 
 🌱 Currently Learning:
 - Advanced SQL
